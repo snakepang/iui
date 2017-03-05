@@ -7,7 +7,7 @@ class BlueCar {
   BlueCar (float x , float y ){
     this.x = x ; 
     this.y = y ;
-    img = loadImage("blue_car.png") ;   
+    img = loadImage("img/blue_car.png") ;   
     speed = 10 ; 
   }
   
