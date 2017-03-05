@@ -8,7 +8,3 @@ void setup(){
   
 }
 
-void draw (){
-  //blueCar.display() ;
-
-}
